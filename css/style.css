@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+#tlogo{
+    color: #2cbbb9;
+    text-shadow: rgb(22, 19, 19) 0.1em  0.1em 0.2em;
+
+}
+a{
+    text-shadow: rgb(22, 19, 19) 0.1em  0.1em 0.2em;
+}
+.logo{
+    width: 125px;
+    padding: 2px 15px ;
+}
+h5{
+    color: white;
+}
+p{
+    color: white;
+}
+.iconos-redes{
+    width: 25px;
+    margin: 10px 5px;
+}
+#iniciop{
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.42),rgba(0, 0, 0, 0.384)), url(../img/fondoi.jpg);
+    position: relative;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center center;
+    text-align: center;
+    padding: 200px 12px;
+    margin: auto;
+    color: white;
+}
+
+#iniciop h1{
+    font-size: 3em;
+    color: white;
+    text-shadow: rgb(22, 19, 19) 0.1em  0.1em 0.2em;
+    margin-top: 2%;
+}
+.fondo2{
+    background-color: rgb(5, 5, 33);
+}
+#produc{
+    font-size: 2.5em;
+    color: white;
+    text-shadow: rgb(22, 19, 19) 0.1em  0.1em 0.2em;
+    margin-top: 2%;
+}
+#bg-contactos{
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.42),rgba(0, 0, 0, 0.384)), url(../img/fondoi.jpg);
+    position: relative;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center center;
+    text-align: center;
+    padding: 150px 12px;
+    margin: auto;
+}
+
+#contactos{
+    min-height: 500px;
+    position: relative;
+}
+#formulario{
+    position:center;
+    transform: -50%, -50%;
+    background: #1b3c5673;
+    border-radius: 5px;
+    max-width: 500px;
+}
+#titulofor{
+    margin-top: 5%;
+     color: white;
+}
+#boton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    background-color: #060809;
+    padding: 25px 0px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.404);
+
+}
+footer .alo{
+    color: grey;
+}
+#tfooter{
+    color: #2cbbb9;
+    text-shadow: rgb(22, 19, 19) 0.1em  0.1em 0.2em;
+}
+
+
